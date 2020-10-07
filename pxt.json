@@ -1,0 +1,43 @@
+{
+    "name": "Thomassen Car Dodger",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.2.6",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#213b25",
+        "#3a604a",
+        "#4f7754",
+        "#a19f7c",
+        "#77744f",
+        "#775c4f",
+        "#603b3a",
+        "#3b2137",
+        "#170e19",
+        "#2f213b",
+        "#b1a7b8",
+        "#bd6060",
+        "#a3e6a",
+        "#a2952",
+        "#3e664b"
+    ]
+}
